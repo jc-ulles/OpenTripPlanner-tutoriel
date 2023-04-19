@@ -1,5 +1,5 @@
 # Guides d'utilisation d'OpenTripPlanner
-OpenTripPlanner (OTP) est un logiciel d'analyse des données de l'offre de transport public compatibles en format GTFS et NeTEx. Le logiciel possède des utilisations multiples, en particulier pour :
+OpenTripPlanner (OTP) est un logiciel d'analyse des données de l'offre de transport public en format GTFS et NeTEx. Le logiciel possède des utilisations multiples, en particulier pour :
 - réaliser des calculs d'itinéraires optimaux en transport public, offrant la possibilité de réaliser des correspondances ;
 - produire des isochrones à partir d'un lieu, en fonction de durées de transport définies et sous contraintes multiples de paramètres avec une intégration dans QGIS.
 
